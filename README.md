@@ -1,4 +1,4 @@
-# Encryption-Decryption
+# Encryption-Decryption ![Encryption-Decryption](https://github.com/enes-plt/Encryption-Decryption/assets/152672327/f363ec6f-93f0-4743-9260-94a688cdcd51)
 
 Encryption-Decryption Project via Java
 
