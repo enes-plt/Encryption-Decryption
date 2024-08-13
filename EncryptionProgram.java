@@ -136,10 +136,11 @@ public class EncryptionProgram {
         }
         // Print the decrypted message
         System.out.print("Decrypted: ");
-        for (char x : letters){
-            System.out.print(x);
+        for (int i = 0; i < letters.length; i++) {
+            System.out.print(letters[i]);
         }
         System.out.println();
+        
 
     }
 
